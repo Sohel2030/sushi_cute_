@@ -1,0 +1,687 @@
+/* Extra small devices (phones, 320px and down) */
+@media (min-width: 320px) and (max-width: 575.98px) {
+	header {
+    padding: 0px 0 0px;
+}
+	.b_img {
+    width: 30%;
+    margin: -35px 219px;
+}
+.b_text h1 {
+   font-size: 40px;
+}
+.b_ptext {
+    margin: 0px 0;
+    font-size: 16px;
+}
+.banner {
+    height: 301px;
+    padding-top: 26px;
+    text-align: center;
+}
+.btn_link {
+    font-size: 18px;
+    width: 160px;
+    height: 36px;
+}
+.a_img {
+    width: 75%;
+    padding-left: 70px;
+}
+.a_text {
+    padding: 0px 0;
+    text-align: center;
+}
+.a_title2 {
+    font-size: 34px;
+}
+.a_para {
+    padding: 0px 0 5px;
+    font-size: 19px;
+}
+.btn_lin {
+    font-size: 18px;
+    padding: 4px 0;
+    width: 160px;
+    height: 36px;
+}
+.about-section {
+    height: 425px;
+    padding-top: 39px;
+}
+.team-title .title {
+    margin-top: -36px;
+    font-size: 22px;
+    padding-bottom: 0px;
+}
+.member-img {
+    margin-bottom: 5px;
+    height: 70px;
+    width: 70px;
+}
+.single-member h2 {
+    padding-right: 23px;
+    font-size: 13px;
+}
+.single-member p {
+    font-size: 11px;
+    padding-right: 20px;
+}
+.team {
+    height: 320px;
+}
+.team2_title2 .title2 {
+    margin-top: -163px;
+    font-size: 22px;
+    padding-bottom: 0px;
+}
+.team_text {
+    margin-bottom: 1rem;
+    font-size: 16px;
+}
+.ww_img {
+    margin-bottom: 143px;
+    border: 2px solid #fd9191;
+    height: 70px;
+    width: 70px;
+}
+.m_p1 {
+    padding: 0px 0px 0px 17px;
+    margin-top: -47px;
+    font-size: 20px;
+}
+.m_h1 {
+    padding-left: 12px;
+    font-size: 13px;
+    margin-top: -180px;
+}
+.team2-section {
+    height: 255px;
+    padding-top: 177px;
+}
+.a1_text {
+    padding: 0px 0;
+}
+.a1_title2 {
+    font-size: 26px;
+}
+.about2 {
+    margin-top: -166px;
+}
+.a1_para {
+    padding: 0px 0 5px;
+    font-size: 19px;
+    margin-left: -41px;
+}
+.a1_img {
+    width: 75%;
+    margin-top: 25px;
+    margin-left: -10px;
+}
+.about2-section {
+    height: 455px;
+}
+.work-video img {
+    width: 12%;
+}
+.img_p {
+    font-size: 10px;
+    padding-top: 50px;
+}
+.img_h {
+    font-size: 18px;
+}
+.img_p p{
+	margin-bottom: 0;
+}
+.work-progress {
+    height: 167px;
+    padding-top: 52px;
+}
+.m_text {
+    font-size: 28px;
+}
+.n_text {
+    font-size: 13px;
+    margin-top: 0px;
+}
+.form-control {
+    border-radius: 3.375rem;
+}
+.justify-content-center {
+    margin-top: -36px;
+}
+.input_btn button {
+    padding: 12px 6px;
+    font-size: 9px;
+    line-height: 19px;
+    letter-spacing: 0px;
+    border-radius: 5px;
+}
+.input_text {
+    padding-top: 3px;
+}
+.newsletter-section {
+    height: 205px;
+    padding-top: 53px;
+}
+.footer_social p {
+    font-size: 16px;
+    margin: 0px auto 4px;
+}
+.footer_social_icon {
+    margin-left: -12px;
+}
+.footer_service h4 {
+    margin: 0px 0px 0px;
+}
+.footer_service_icon p {
+    font-size: 10px;
+    margin-left: 111px;
+}
+.footer_contact_info h4 {
+    margin: 5px 0px 0px;
+    margin-left: 93px;
+}
+.footer_info_top p {
+    font-size: 10px;
+    margin-left: 112px;
+    margin-bottom: -13px;
+}
+.footer_info_top {
+    margin-bottom: 10px;
+}
+.footer_info p {
+    font-size: 10px;
+    margin-bottom: -22px;
+    margin-left: 73px;
+}
+.business {
+    margin-right: 0px;
+}
+.business h4 {
+    margin: 0px 0px 0px;
+}
+.pt-5 {
+    padding-top: 1rem !important;
+}
+.copyright p {
+    font-size: 11px;
+}
+.py-5 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+}
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	header {
+    padding: 0px 0 0px;
+}
+	.b_img {
+    width: 20%;
+    margin: -49px 443px;
+}
+.b_text {
+    text-align: center;
+}
+.banner {
+    height: 420px;
+    padding-top: 40px;
+}
+.b_text h1 {
+    font-size: 70px;
+}
+.b_ptext {
+    margin: 2px 0px 30px;
+    font-size: 25px;
+}
+.a_text {
+    padding: 0px 0;
+}
+.a_title2 {
+    font-size: 33px;
+}
+.a_para {
+    padding: 4px 0 10px;
+    font-size: 19px;
+}
+.about-section {
+    height: 420px;
+    padding-top: 93px;
+}
+.member-img {
+    margin-bottom: 10px;
+    height: 125px;
+    width: 125px;
+}
+.single-member h2 {
+    padding-right: 38px;
+    font-size: 19px;
+}
+.single-member p {
+    font-size: 15px;
+    padding-right: 35px;
+}
+.team-title .title {
+    margin-top: -66px;
+    font-size: 40px;
+    padding-bottom: 0px;
+}
+.team {
+    height: 430px;
+}
+.team2_title2 .title2 {
+    margin-top: -172px;
+    font-size: 40px;
+    padding-bottom: 0px;
+}
+.team_text {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 16px;
+}
+.ww_img {
+    margin-bottom: 112px;
+    height: 125px;
+    width: 125px;
+}
+.m_p1 {
+    padding: 0px 0px 0px 28px;
+    margin-top: -81px;
+    font-size: 36px;
+}
+.m_h1 {
+    padding-left: 23px;
+    font-size: 23px;
+    margin-top: -173px;
+}
+.team2-section {
+    height: 340px;
+}
+.a1_title2 {
+    font-size: 33px;
+}
+.a1_text {
+    padding: 0px 0;
+}
+.a1_para {
+    padding: 4px 0 10px;
+    font-size: 18px;
+}
+.about2-section {
+    height: 332px;
+    padding-top: 73px;
+}
+.img_p {
+    font-size: 19px;
+    padding-top: 31px;
+}
+.img_h {
+    font-size: 35px;
+}
+.work-video img {
+    width: 15%;
+}
+.work-progress {
+    height: 303px;
+    padding-top: 1px;
+}
+.m_text {
+    font-size: 40px;
+}
+.n_text {
+    font-size: 17px;
+    margin-top: 0px;
+}
+.justify-content-center {
+    margin-top: 10px;
+    margin-bottom: -34px;
+}
+.input_btn button {
+    padding: 14px 0px;
+    font-size: 17px;
+    line-height: 21px;
+    border-radius: 14px;
+}
+.form-control {
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 1.375rem;
+}
+.input_text {
+    padding-top: 6px;
+}
+.newsletter-section {
+    height: 309px;
+    padding-top: 26px;
+}
+.footer_social_logo h1 {
+    font-size: 17px;
+}
+.footer_social p {
+    font-size: 11px;
+    line-height: 13px;
+    margin: 5px auto 0px;
+}
+.footer_social_icon ul li {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+.footer_service h4 {
+    margin: -1px 20px 0px;
+    margin-bottom: 0px;
+}
+.footer_service_icon p {
+    font-size: 16px;
+    margin-left: 19px;
+    margin-bottom: -15px;
+}
+.footer_contact_info h4 {
+    margin: -1px 0px 0px;
+    margin-bottom: 0px;
+}
+.footer_info_top p {
+    font-size: 15px;
+    margin-left: 23px;
+    margin-bottom: -26px;
+}
+.footer_info p {
+    font-size: 14px;
+    margin-bottom: -28px;
+    margin-right: -56px;
+}
+.copyright p {
+    font-size: 13px;
+}
+.business h4 {
+    margin: -1px 0px 0px;
+    margin-bottom: 0px;
+}
+.py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 1rem !important;
+}
+.btn_link {
+    font-size: 18px;
+    width: 160px;
+    height: 37px;
+}
+.btn_lin {
+    font-size: 18px;
+    padding: 5px 0;
+    width: 160px;
+    height: 37px;
+}
+
+}
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	header {
+    background-color: #e59090;
+    padding: 0px 0 0px;
+}
+	.b_img {
+    width: 25%;
+    margin: -96px 558px;
+}
+.banner {
+    height: 500px;
+    padding-top: 80px;
+}
+.b_text h1 {
+    font-size: 83px;
+    text-align: center;
+}
+.b_ptext {
+    margin: 26px 0px;
+    font-size: 27px;
+    text-align: center;
+}
+.btn_link {
+    margin-left: 173px;
+}
+.a_title2 {
+    font-size: 45px;
+}
+.a_text {
+    padding: 0px 0;
+}
+.about-section {
+    height: 585px;
+    padding-top: 147px;
+}
+.a_para {
+    padding: 12px 0 23px;
+}
+.single-member h2 {
+    padding-right: 37px;
+    font-size: 26px;
+}
+.member-img {
+    margin-bottom: 10px;
+    height: 180px;
+    width: 180px;
+}
+.single-member p {
+    font-size: 16px;
+    padding-right: 39px;
+}
+.team {
+    height: 530px;
+}
+.team-title .title {
+    margin-top: -89px;
+    font-size: 58px;
+}
+.team-members {
+    margin: 21px 0 0px;
+}
+.team2_title2 .title2 {
+    margin-top: -166px;
+    font-size: 58px;
+    padding-bottom: 0px;
+}
+.team_text {
+    margin-bottom: 2rem;
+    font-size: 22px;
+}
+.ww_img {
+    height: 180px;
+    width: 180px;
+}
+.m_h1 {
+    padding-left: 44px;
+    margin-top: -140px;
+}
+.m_p1 {
+    padding: 0px 0px 0px 43px;
+}
+.team2-section {
+    height: 500px;
+}
+.a1_title2 {
+    font-size: 45px;
+}
+.a1_para {
+    padding: 12px 0 23px;
+}
+.a1_text {
+    padding: 0px 0;
+}
+.about2-section {
+    height: 500px;
+    padding-top: 91px;
+}
+.img_p {
+    font-size: 21px;
+    padding-top: 0px;
+}
+.work-video img {
+    width: 30%;
+}
+.work-progress {
+    height: 403px;
+    padding-top: 4px;
+}
+.m_text {
+    font-size: 58px;
+}
+.n_text {
+    font-size: 24px;
+    margin-top: 5px;
+}
+.justify-content-center {
+    margin-top: 50px;
+    margin-bottom: -41px;
+}
+.newsletter-section {
+    height: 407px;
+    padding-top: 61px;
+}
+.footer_social p {
+    font-size: 14px;
+    line-height: 16px;
+    margin: 4px auto 4px;
+}
+.footer_social_logo h1 {
+    font-size: 24px;
+}
+.footer_service h4 {
+    margin: 8px 0px 8px;
+}
+.footer_service_icon p {
+    font-size: 14px;
+    margin-left: 41px;
+    margin-bottom: -12px;
+}
+.footer_contact_info h4 {
+    margin: 8px 0px 8px;
+}
+.footer_info_top p {
+    font-size: 14px;
+    margin-left: 8px;
+    margin-bottom: -21px;
+}
+.footer_contact_info {
+    padding-right: 40px;
+}
+.footer_info p {
+    font-size: 14px;
+}
+.copyright p {
+    font-size: 18px;
+}
+.footer_social_icon ul li {
+    width: 26px;
+    height: 26px;
+}
+.py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 2rem !important;
+}
+
+}
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.b_img {
+    width: 58%;
+    margin: -598px 716px;
+}
+.single-member h2 {
+    padding-right: 44px;
+}
+.single-member p {
+    font-size: 20px;
+    padding-right: 48px;
+}
+.img_p {
+    padding-top: 10px;
+}
+.b_ptext {
+    margin: 10px 0px;
+    line-height: 1.5;
+    font-size: 35px;
+    color: white;
+}
+.banner {
+    height: 680px;
+    padding-top: 170px;
+}
+.b_text h1 {
+    font-size: 95px;
+    font-weight: 700;
+    color: white;
+}
+.btn_link {
+    margin-top: 15px;
+}
+.work-video img {
+    width: 22%;
+}
+.work-progress {
+    height: 537px;
+    padding-top: 6px;
+}
+.m_text {
+    font-size: 70px;
+}
+.form_item {
+    margin-left: -77px;
+}
+.footer_social_logo h1 {
+    font-size: 34px;
+}
+.footer_info_top p {
+    font-size: 15px;
+    margin-left: 20px;
+}
+.footer_social_icon ul li {
+    width: 40px;
+    height: 40px;
+}
+.team {
+    height: 704px;
+}
+.about2-section {
+    height: 600px;
+    padding-top: 100px;
+}
+.newsletter-section {
+    height: 497px;
+    padding-top: 37px;
+}
+.py-5 {
+    padding-top: 4rem !important;
+    padding-bottom: 2rem !important;
+}
+
+}
+/* Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+/* Extra  Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+.b_img {
+    width: 59%;
+    margin: -578px 993px;
+}
+.banner {
+    padding-top: 158px;
+}
+.single-member h2 {
+    padding-right: 150px;
+}
+.single-member p {
+    padding-right: 150px;
+}
+.footer_service h4 {
+    margin-left: 20px;
+}
+.footer_info_top p {
+    margin-left: 61px;
+}
+
+}
